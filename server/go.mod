@@ -1,4 +1,4 @@
-module github.com/Rubix982/rank-nsf-linker/common
+module github.com/Rubix982/rank-nsf-linker/server
 
 go 1.25.1
 
