@@ -222,3 +222,6 @@ talk/
 
 # Local go build output
 server/server
+
+# macOS (was ignored by open-concept-lab's .gitignore before this became its own repo)
+.DS_Store
